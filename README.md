@@ -427,7 +427,6 @@ Use `--url`/`-u` to get a list of downloadable resource URLs extracted from the 
 | **Tudou<br/>土豆** | <http://www.tudou.com/> |✓| | |
 | 虾米     | <http://www.xiami.com/>        |✓| |✓|
 | 阳光卫视 | <http://www.isuntv.com/>       |✓| | |
-| **音悦Tai** | <http://www.yinyuetai.com/> |✓| | |
 | **Youku<br/>优酷** | <http://www.youku.com/> |✓| | |
 | 战旗TV   | <http://www.zhanqi.tv/lives>   |✓| | |
 | 央视网   | <http://www.cntv.cn/>          |✓| | |
@@ -436,7 +435,7 @@ Use `--url`/`-u` to get a list of downloadable resource URLs extracted from the 
 | 火猫TV   | <http://www.huomao.com/>       |✓| | |
 | 阳光宽频网 | <http://www.365yg.com/>      |✓| | |
 | 西瓜视频 | <https://www.ixigua.com/>      |✓| | |
-| 新片场 | <https://www.xinpianchang.com//>      |✓| | |
+| 新片场 | <https://www.xinpianchang.com/>      |✓| | |
 | 快手 | <https://www.kuaishou.com/>      |✓|✓| |
 | 抖音 | <https://www.douyin.com/>      |✓| | |
 | TikTok | <https://www.tiktok.com/>      |✓| | |
